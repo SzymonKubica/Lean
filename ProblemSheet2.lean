@@ -29,7 +29,7 @@ import data.real.basic -- need real numbers for Q5
 -- Q1 prove that ∩ is symmetric
 lemma question1 (α : Type) (X Y : set α) : X ∩ Y = Y ∩ X :=
 begin
-  sorry
+  
 end
 
 -- question 2 defs
